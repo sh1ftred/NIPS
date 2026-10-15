@@ -4,6 +4,7 @@ The key words "RAW", "DRAFT", "STABLE", "DEPRECATED", and "RETIRED" in this docu
 ## Event Kinds (implemented)
 * `31108` Microsubjective Blockchain (MSB) State [STATUS: DRAFT]
 	* MSB Ruleset used by Nostrocket: `MSBR3340` 
+	* MSB Ruleset for SEC composition: `MSBR334001` — a Rover is an SEC that is part of a larger SEC, see `MSBR334001.md`
 
 ### Problem Tracker [RAW]
 * `31971` Problem Tracker Event (NIP-1971, see `Problems.md`) [STATUS: DRAFT]
